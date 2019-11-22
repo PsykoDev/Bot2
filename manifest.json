@@ -5,7 +5,7 @@
 		"package.json": "af5d0498300bb02118d09b40a753ead7dc064ab5de792925fe796c787b0ac761",
 		"README.md": "4bd4fef4b7ec124b1e2e5d370b47356452dbd69a9f17f4ae8a66a62dd0771a52",
 		"TeraClient.bat": "6eef40ca4cac887f0896b6d0dc23655ae18acefe5e7f6d3979f9309dc260bd80",
-		"bin/Rconfigurator.js": "1df019f7c923c6c9c5e4abe426c2122f05180843a7de056a1def6ed6fb672659",
+		"bin/configurator.js": "1df019f7c923c6c9c5e4abe426c2122f05180843a7de056a1def6ed6fb672659",
 		"bin/genmanifest.js": "4669c094d11fecc8ad977d4c07d510e2516deaedc01b7073198a55c1fa58dd66",
 		"bin/index.js": "013a17f24aff5f73b4f41f703e5fee76a5114cd325cd100945fe46eac5597d0a"
 

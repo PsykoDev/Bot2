@@ -1,0 +1,16 @@
+{
+	"files": {
+		"config.bat": "2c17f8d978cea3944228a2a71d44e10cbf8c655bfe27f6abd171829e0cb55ca5",
+		"module.json": "ed22445dc01bd2a772f04cc6bfc03f4ead2d078c391bc9d3b2968a7bb3ec725e",
+		"package.json": "af5d0498300bb02118d09b40a753ead7dc064ab5de792925fe796c787b0ac761",
+		"README.md": "4bd4fef4b7ec124b1e2e5d370b47356452dbd69a9f17f4ae8a66a62dd0771a52",
+		"TeraClient.bat": "6eef40ca4cac887f0896b6d0dc23655ae18acefe5e7f6d3979f9309dc260bd80",
+		"bin/Rconfigurator.js": "1df019f7c923c6c9c5e4abe426c2122f05180843a7de056a1def6ed6fb672659",
+		"bin/genmanifest.js": "4669c094d11fecc8ad977d4c07d510e2516deaedc01b7073198a55c1fa58dd66",
+		"bin/index.js": "013a17f24aff5f73b4f41f703e5fee76a5114cd325cd100945fe46eac5597d0a"
+
+	},
+	"defs": {
+		"S_NPC_MENU_SELECT": 1
+	}
+}

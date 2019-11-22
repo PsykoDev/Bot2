@@ -1,0 +1,11 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Bot2",
+	"author": "PsykoDev",
+	"description": "Bot2",
+	"options": {
+		"niceName": "Bot2"
+	},
+	"servers": ["https://raw.githubusercontent.com/PsykoDev/Bot2/master/"],
+	"supportUrl": "https://github.com/PsykoDev/Bot2/issues"
+}

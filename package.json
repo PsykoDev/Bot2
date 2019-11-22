@@ -1,0 +1,19 @@
+{
+  "name": "tera-clientless",
+  "version": "1.0.1",
+  "description": "TERA game client emulator",
+  "main": "bin",
+  "author": "Kloct",
+  "contributors": [
+    "Meishu",
+    "Pinkie Pie"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "log": "github:neko-org/log",
+    "tera-auth-ticket": "github:patricksantozz/tera-auth-ticket",
+    "tera-data": "github:tera-toolbox/tera-data",
+    "tera-proxy-game": "github:tera-toolbox/tera-network-proxy",
+    "updater": "github:neko-org/updater"
+  }
+}
